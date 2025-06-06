@@ -98,11 +98,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 👾 Security
-If you find a security vulnerability, please report it privately to security@yourdomain.com.
-
----
-
 ## 🚀 License
 [MIT License](LICENSE)
 
